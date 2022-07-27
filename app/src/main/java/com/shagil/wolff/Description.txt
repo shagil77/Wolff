@@ -1,0 +1,11 @@
+Welcome to Alpha Vantage! Here is your API key: PL36APAMFO5E3ZFI. Please record this API key at a safe place for future data access.
+https://github.com/philipplackner/StockMarketApp/tree/final
+
+1. Alpha Vantage API (JSON and CSV parsing)
+2. JetPack Compose and Navigation
+3. Dagger-Hilt (Dependency Injection)
+4. Retrofit
+5. Room
+6. Coroutines
+7. Clean Architecture
+8. Moshi for JSON parsing
